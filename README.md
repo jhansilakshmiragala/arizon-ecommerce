@@ -68,3 +68,67 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+# Arizon E-commerce Assignment 🛒
+
+This is a simple React-based e-commerce application created for the Arizon assignment.
+
+## 📦 Features
+
+- Home page with navigation
+- Product listing with dynamic product detail page
+- Working cart system with quantity control
+- Mini cart in navbar
+- Full cart page with subtotal and shipping
+- Responsive layout with clean UI
+
+## 🚀 Tech Stack
+
+- React
+- React Router
+- Context API (for cart management)
+- Tailwind CSS (for styling)
+
+
+## 🔧 Setup Instructions
+
+1. Clone the repository:
+git clone https://github.com/jhansilakshmiragala/arizon-ecommerce.git cd arizon-ecommerce
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm start
+
+4. Open `http://localhost:3000` in your browser.
+
+## 🧠 Approach
+
+- Designed the layout using reusable components.
+- Used Context API for global cart state.
+- Implemented routing for Home, Products, Cart, and Contact pages.
+- Ensured proper functionality for cart updates and total calculations.
+
+## 🐞 Known Issues
+
+- Currently using static product data (can be replaced with an API later).
+- No user authentication implemented.
+
+## 📡 Deployment
+
+[Live Demo on Netlify] (https://loquacious-axolotl-910e1a.netlify.app/)
+
+## 🙌 Author
+
+- Jhansi Lakshmi
